@@ -4,7 +4,7 @@
 
 管理地址：192.168.1.1   登陆密码:password
 
-TG群：https://t.me/ArisMantos
+[加入TG群]( https://t.me/ArisMantos)
   
   
   
